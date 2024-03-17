@@ -8,6 +8,12 @@ Before running the application, ensure you have the following installed:
 - PostgreSQL
 - JDK (Java Development Kit)
 
+## Cloning the Repository
+To clone this Git repository, use the following command:
+```
+git clone https://github.com/VishruthaGopa/COMP3005_A3.git
+```
+
 ## Setup Instructions
 1. **Database Setup**:
     - Create a database named `A3_Q1` in your PostgreSQL server.
