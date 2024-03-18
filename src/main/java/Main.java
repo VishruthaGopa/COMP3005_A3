@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         // Database connection
-        // Update the database connection details here (url, username, and password) match your PostgreSQL configuration.
+        // Update the database connection details here (url, username, and password) to match your PostgreSQL configuration.
         String url = "jdbc:postgresql://localhost:5432/A3_Q1";
         String user = "postgres";
         String password = "postgres";
