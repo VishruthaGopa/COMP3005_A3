@@ -18,7 +18,7 @@ git clone https://github.com/VishruthaGopa/COMP3005_A3.git
 1. **Database Setup**:
     - Create a database named `A3_Q1` in your PostgreSQL server.
     - Execute the SQL commands provided in the students_ddl.sql file to create the necessary table and insert initial data.
-    - Update the database connection details (url, username, and password) in the Main.java file to match your PostgreSQL configuration.
+    - Update the database connection details (url, username, password, and port) in the Main.java file to match your PostgreSQL configuration.
 
 2. **Compile the Application**:
     - Navigate to the directory containing the `Main.java` file.
